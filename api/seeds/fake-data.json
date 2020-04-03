@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "Hosea_Goldner@hotmail.com",
+      "firstName": "Halie",
+      "lastName": "Volkman",
+      "password": "89bd9d8d69a674e0f467cc8796ed151a05dfc2ddf7cc78ca1ba928fc8167",
+      "_id": "000001"
+    },
+    {
+      "email": "Frederique_Stoltenberg57@yahoo.com",
+      "firstName": "Delores",
+      "lastName": "Stracke",
+      "password": "42cb739205929396fea7596eb10faaa2352c5955907aff1a3a2fa9467739",
+      "_id": "000002"
+    },
+    {
+      "email": "Vidal.Osinski@hotmail.com",
+      "firstName": "Leif",
+      "lastName": "Schmidt",
+      "password": "251aa52c3f5ad019da1ffe78f097b0074f15471b5e6e13b99d488e1e91e4",
+      "_id": "000003"
+    },
+    {
+      "email": "Jimmie_Skiles71@gmail.com",
+      "firstName": "Madelyn",
+      "lastName": "Medhurst",
+      "password": "50ad2abd44269802d502a94bb4f63c969e9a3efa77dfb14cd66ae395efb9",
+      "_id": "000004"
+    },
+    {
+      "email": "Fermin.Wiza@yahoo.com",
+      "firstName": "Julian",
+      "lastName": "Maggio",
+      "password": "ba88f3a66997074ba4469b6e2141959890afa563e2516fe4c8b711e5b7fd",
+      "_id": "000005"
+    }
+  ]
+}
